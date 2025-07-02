@@ -35,7 +35,7 @@ It is especially useful for recovery scenarios or administrative operations.
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/fireblocks/recovery-grant-role.git
    cd recovery-tool-grant-role-example
    ```
 
