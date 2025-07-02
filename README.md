@@ -1,6 +1,6 @@
 # Recovery Tool: Grant Role Example
 
-This code examples demonstrates how to grant a specific role to an Ethereum account on a Fireblocks ERC20F smart contract that implements role-based access control.
+This code example demonstrates how to grant a specific role to an Ethereum account on a Fireblocks ERC20F smart contract that implements role-based access control.
 It is especially useful for recovery scenarios or administrative operations.
 
 ---
