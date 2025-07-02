@@ -2,10 +2,11 @@
 	"name": "recover_from_eth_address",
 	"version": "1.0.0",
 	"description": "Recover your assets sent to ETH address",
-	"main": "index.ts",
+	"main": "dist/src/changeRoleRemotely.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "npx ts-node ./src/changeRoleRemotely.ts"
+		"build": "tsc",
+		"start": "npm run build && node dist/changeRoleRemotely.js"
 	},
 	"author": "",
 	"license": "ISC",
